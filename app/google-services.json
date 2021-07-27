@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441031750739",
+    "project_id": "cite-application-11e40",
+    "storage_bucket": "cite-application-11e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441031750739:android:c64197915d14604573c2a6",
+        "android_client_info": {
+          "package_name": "com.mda.studentrecords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441031750739-7ddvk21d0ciq806pgbmgcue1r46knbu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mda.studentrecords",
+            "certificate_hash": "30cadeaa890dc4eaa5c19e949b3ff9475554bbbe"
+          }
+        },
+        {
+          "client_id": "441031750739-0m6lc1mbee3149pep0r6p53hgvpgua9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJN9PyZ7SuugedkSyH9rxmIKhhmgpN3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441031750739-0m6lc1mbee3149pep0r6p53hgvpgua9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
